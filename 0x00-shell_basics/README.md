@@ -1,0 +1,1 @@
+#!/bin/bash is the command to open bash and pwd is the command to check the active/bin/bash is the command to open bash and (pwd) is the command to check the active is the command to check the active dir
